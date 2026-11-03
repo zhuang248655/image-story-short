@@ -1,0 +1,5 @@
+# Copyright (c) 2026 Leon. Workflow compilation and original additions; third-party attribution retained.
+interface:
+  display_name: "图片故事短片"
+  short_description: "根据图片引导故事创作、细节取舍、生图提示词与人工制作视频的分镜提示词"
+  default_prompt: "用 $image-story-short 根据上传图片创作40秒内无台词短片。先自检看图与生图能力，分析内容并给至少三条取舍建议，再写故事、美术、图片及视频分镜提示词；视频由我在外部平台手动制作。"
